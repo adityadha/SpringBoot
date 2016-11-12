@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b591bf0b-a5be-43bd-9d26-63e824dcfac4" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/java/com/tw/bootcamp/chennai/domain/EmployeeRecordTest.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/test/java/com/tw/bootcamp/chennai/domain/EmployeeRecordTest.java" afterPath="$PROJECT_DIR$/src/test/java/com/tw/bootcamp/chennai/domain/EmployeeRecordTest.java" />
     </list>
     <ignored path="SpringBoot.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -115,12 +115,10 @@
       <file leaf-file-name="EmployeeRecordTest.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/test/java/com/tw/bootcamp/chennai/domain/EmployeeRecordTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.21327014">
-              <caret line="9" column="25" selection-start-line="9" selection-start-column="25" selection-end-line="9" selection-end-column="25" />
+            <state vertical-scroll-proportion="0.2606635">
+              <caret line="11" column="25" selection-start-line="11" selection-start-column="25" selection-end-line="11" selection-end-column="25" />
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="e#181#182#0" expanded="true" />
-                <element signature="e#213#214#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -1044,12 +1042,10 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/com/tw/bootcamp/chennai/domain/EmployeeRecordTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.21327014">
-          <caret line="9" column="25" selection-start-line="9" selection-start-column="25" selection-end-line="9" selection-end-column="25" />
+        <state vertical-scroll-proportion="0.2606635">
+          <caret line="11" column="25" selection-start-line="11" selection-start-column="25" selection-end-line="11" selection-end-column="25" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#181#182#0" expanded="true" />
-            <element signature="e#213#214#0" expanded="true" />
           </folding>
         </state>
       </provider>
